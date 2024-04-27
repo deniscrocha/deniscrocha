@@ -1,5 +1,5 @@
 <h1 align="center">Desenvolvedor Full Stack</h1>
-<img align="center" src="https://i.pinimg.com/564x/a1/bb/e9/a1bbe951714484bc932a61271783bd6c.jpg" height="30%" width="30%"/>
+<img align="center" src="https://i.pinimg.com/564x/a1/bb/e9/a1bbe951714484bc932a61271783bd6c.jpg" height="100%" width="100%"/>
 <h3 align="center">Sobre mim</h3>
 Meu nome é Dênis Rocha, tenho 23 anos, sou desenvolvedor full stack, estou fazendo um curso de programação full stack da +prati.
 
