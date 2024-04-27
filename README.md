@@ -15,4 +15,4 @@ Meu nome é Dênis Rocha, tenho 23 anos, sou desenvolvedor full stack, estou faz
 
 <p><img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deniscrocha&layout=compact&langs_count=7&theme=dracula"/></p>
 
-<p>&nbsp;<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?deniscrocha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></p>
+<p>&nbsp;<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=deniscrocha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></p>
