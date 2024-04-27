@@ -3,7 +3,7 @@
 <h3 align="center">Sobre mim</h3>
 Meu nome é Dênis Rocha, tenho 23 anos, sou desenvolvedor full stack, estou fazendo um curso de programação full stack da +prati.
 
-<h3 align="left">Interaja comigo:</h3>
+<h3 align="left">Converse comigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/denis-rocha-616619295" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="denis-rocha-616619295" height="30" width="40" /></a>
 <a href="https://instagram.com/d_crocha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="d_crocha" height="30" width="40" /></a>
