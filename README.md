@@ -3,6 +3,8 @@
 <h2 align="center">About me</h2>
 My name is Dênis Rocha, i am 23 years old, currently living in Santa Maria, Rio Grande do Sul, Brasil.
 
+<a href="https://github.com/deniscrocha/nvim-configuration">my nvim configuration</a>
+
 <h3 align="left">Contacts:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/denis-rocha-616619295" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="denis-rocha-616619295" height="30" width="40" /></a>
